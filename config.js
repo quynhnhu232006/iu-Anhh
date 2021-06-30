@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hải Anh à!',
+    introTitle: 'bae à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim Như lẻ loi
@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không, Như à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu Như <3',
     btnReply: 'Gửi cho Như <3',
-    reply: 'zì Như đẹptroai óooo <33333333',
+    reply: 'zì Như đẹp géi óooo <33333333',
     mess: 'Như bít mà :> 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'hãy yêu Như Nhìu hơn nhé',
     btnAccept: 'Okiiiii lun <3',
